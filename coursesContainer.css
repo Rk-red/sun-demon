@@ -1,0 +1,36 @@
+.course-container {
+  height: 85%;
+  width: 90%;
+  border: 1px solid gray;
+  position: relative;
+  bottom: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.two {
+  border: 0px solid lightgray;
+  box-shadow: 4px 4px 4px #888888;
+  border-radius: 5%;
+  margin: 0 7px 0px 3px;
+  height: 13%;
+  width: 13%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.three {
+  border: 0px solid lightgray;
+  box-shadow: 4px 4px 4px #888888;
+  border-radius: 5%;
+  margin: 0 7px 0px 3px;
+  height: 21%;
+  width: 13%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
